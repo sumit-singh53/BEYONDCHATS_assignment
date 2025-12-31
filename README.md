@@ -1,5 +1,3 @@
-# BeyondChats Editorial Hub
-
 ## Project Overview
 BeyondChats Editorial Hub is a full-stack system that ingests BeyondChats blog posts, enriches them with AI-assisted rewrites, and presents both the original and enhanced versions in a polished editorial dashboard.
 
@@ -134,6 +132,10 @@ Frontend (UI only): https://beyondchats-assignment-zeta.vercel.app/
 > Note: The backend API and scraper are designed to run locally for evaluation.
 > When running locally (`npm run dev` in backend + frontend), articles load and
 > the full end-to-end flow can be verified.
+> Output Screenshot
+> <img width="1892" height="1038" alt="Screenshot 2025-12-31 082920" src="https://github.com/user-attachments/assets/c22e2698-1e00-4412-9a65-0d86773c50f0" />
+
+
 
 ---
 
