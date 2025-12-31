@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "frontend npm install",
+			"type": "shell",
+			"command": "cd d:\\PROJECTS\\Personal_Projects\\beyondchats_assignment\\frontend; npm install"
+		},
+		{
+			"label": "frontend dev server",
+			"type": "shell",
+			"command": "cd d:\\PROJECTS\\Personal_Projects\\beyondchats_assignment\\frontend; npm run dev",
+			"isBackground": false
+		},
+		{
+			"label": "check frontend port",
+			"type": "shell",
+			"command": "Test-NetConnection -ComputerName localhost -Port 5173"
+		}
+	]
+}
