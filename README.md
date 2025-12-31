@@ -128,7 +128,12 @@ After seeding, refresh `http://localhost:5173` to see the new cards.
 ---
 
 ## Live Demo
-- Frontend: **https://your-vercel-url-here** (replace with actual deployment)
+
+Frontend (UI only): https://beyondchats-assignment-zeta.vercel.app/
+
+> Note: The backend API and scraper are designed to run locally for evaluation.
+> When running locally (`npm run dev` in backend + frontend), articles load and
+> the full end-to-end flow can be verified.
 
 ---
 
